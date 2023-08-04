@@ -1,9 +1,8 @@
-![Annotation 2023-08-04 102538](https://github.com/AmirHosseinYari2002/Single_Cycle_Implementation/assets/83869239/c7a74c7c-e838-490b-99ef-62f4c9920b09)<h1 align='center'> # Single_Cycle_Implementation </h1>
+<h1 align='center'> Single_Cycle_Implementation </h1>
 
-<h1 align='center'> Sharif University of Technology </h1>
+<h2 align='center'> Sharif University of Technology </h2>
 
-<h1 align='center'> Electrical Engineering Department </h1>
-
+<h3 align='center'> Electrical Engineering Department </h3>
 
 ## Specifications of the MIPS Machine: The Architecture 
 
@@ -16,8 +15,7 @@ architecture**; there are two instructions for accessing memory and none of the 
 - a store instruction to write data to memory. 
 
 ### Instruction Format
-![Annotation 2023-08-04 102538](https://github.com/AmirHosseinYari2002/Single_Cycle_Implementation/assets/83869239/cfdd1f3c-e021-4ad5-8c67-f4c781d2ec49)
+<img src="https://github.com/AmirHosseinYari2002/Single_Cycle_Implementation/assets/83869239/cfdd1f3c-e021-4ad5-8c67-f4c781d2ec49" width="500" height="300" alt="Instruction Format">
 
 ### Datapath 
-![Annotation 2023-08-04 101717](https://github.com/AmirHosseinYari2002/Single_Cycle_Implementation/assets/83869239/9906fe7c-fa23-499a-a5d2-cfe0ff3150dd)
-
+<img src="https://github.com/AmirHosseinYari2002/Single_Cycle_Implementation/assets/83869239/9906fe7c-fa23-499a-a5d2-cfe0ff3150dd" width="900" height="500" alt="Instruction Format">
